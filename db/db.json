@@ -1,14 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "note",
-        "text": "text"
-    },
-    {
         "title": "Grocery List",
-        "text": "Tomatos\nBacon\nLettuce\nBread"
+        "text": "bananas\nspinach\nyogurt\noat milk\n",
+        "id": "d94551c3-1ee9-4096-ba2d-182b87d726cb"
+    },
+    {
+        "title": "Bubby's favorite toys",
+        "text": "whisker claw\npizza\nlime\nlaser pointer\n",
+        "id": "c114eee6-841d-40f7-b538-9a9dcc8c1740"
     }
 ]
